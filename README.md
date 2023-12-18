@@ -1,4 +1,3 @@
-(img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://media3.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=ecf05e47lk2g3qcx6f2ck8g1q1vj42kb4e79ha9c21h6dbht&ep=v1_gifs_search&rid=giphy.gif&ct=g)")
 <h1 align="center">Hi 👋, I'm Elyes</h1>
 <h3 align="center">A passionate frontend developer from Tunisia</h3>
 
