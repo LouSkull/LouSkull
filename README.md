@@ -3,9 +3,6 @@
 
 - 🌱 I’m currently learning **C#**
 
-- 📫 How to reach me **hebregtuu@gmail.com**
-
-
 <p align="left">
 </p>
 
