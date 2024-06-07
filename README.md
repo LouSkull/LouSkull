@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm LouSkull</h1>
 <h3 align="center">A passionate frontend developer from Canada</h3>
 
+- 🔭 I’m currently working on [EWT](https://github.com/LouSkull/EasyWindowsTool-Reborn)
+
 - 🌱 I’m currently learning **C#**
 
+- 📫 How to reach me **easywindowstoolsup@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
