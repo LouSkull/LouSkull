@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [EWT](https://github.com/LouSkull/EasyWindowsTool-Reborn)
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **Golang**
 
 - 👨‍💻 All of my projects are available at [https://louskull.github.io/louskullprojects/](https://louskull.github.io/louskullprojects/)
 
