@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm LouSkull</h1>
 <h3 align="center">A passionate frontend developer from Canada</h3>
 
-- 🔭 I’m currently working on [EWT](https://github.com/LouSkull/EasyWindowsTool-Reborn)
+- 🔭 I’m currently working on [Updated-CMD](https://github.com/LouSkull/Updated-CMD)
 
 - 🌱 I’m currently learning **Golang**
 
